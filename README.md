@@ -1,2 +1,2 @@
 # IMC-project
-Desenvolvimento de um app em react native bem simples que calcula o imc (Índice de Massa Corporal) 
+Desenvolvimento de um app bem simples, que calcula o índice de massa corporal 
